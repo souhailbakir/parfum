@@ -1,0 +1,48 @@
+body {
+    background-color: gray;
+
+}
+.principal {
+    width: 70%;
+    
+}
+.contenu {
+    width: 50%;
+    background-color: white;
+    float: right;
+    height: 100%;
+} 
+#TITRE {
+    color: red;
+text-align: left;
+text-align: calc(10%);
+size: 10px;
+}
+#INTRO {
+    color: black;
+    size: 30px;
+}
+#DISCRIPTION {
+    color: rosybrown;
+    size: 10px;
+    }
+    #solde {
+        color: blueviolet;
+        size: 30px;
+    }
+    #hots {
+        color: blueviolet;
+        size: 5px;
+        text-decoration: line-through;
+        word-break: break-all;
+        }
+        #bt {
+            background-color: blue;
+            color: white;
+            width: 70%;
+            height: 30px;
+            justify-content: center;
+     
+        .b {
+            width: 70%;+
+        }
